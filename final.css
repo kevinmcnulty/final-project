@@ -9,6 +9,9 @@ body {
 
 h1 {
 	font-family: 'Outfit', sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 
 img {
