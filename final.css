@@ -18,7 +18,18 @@ h4 {
 	font-family: 'Outfit', sans-serif;
 }
 
+iframe {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
 img {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 5px;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
@@ -31,6 +42,7 @@ figcaption {
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
+	padding-bottom: 20px;
 }
 
 h6 {
