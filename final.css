@@ -27,6 +27,16 @@ img {
 figcaption {
 	font-family: 'Outfit', sans-serif;
 	font-size: 12px;
+	width: 88%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+h6 {
+	font-family: 'Outfit', sans-serif;
+	font-size: 12px;
+	width: 20%;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
