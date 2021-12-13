@@ -12,9 +12,11 @@ h1 {
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
+	text-align: center;
+	padding-top: 20px;
 }
 
-h4 {
+h3 {
 	font-family: 'Outfit', sans-serif;
 }
 
@@ -35,14 +37,26 @@ img {
 	display: block;
 }
 
-figcaption {
+#firstcaption {
 	font-family: 'Outfit', sans-serif;
-	font-size: 12px;
+	font-size: 14px;
 	width: 88%;
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
 	padding-bottom: 20px;
+	text-align: left;
+}
+
+#secondcaption {
+	font-family: 'Outfit', sans-serif;
+	font-size: 14px;
+	width: 88%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-bottom: 20px;
+	text-align: center;
 }
 
 h6 {
@@ -52,6 +66,7 @@ h6 {
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
+	text-align: center;
 }
 
 #video {
